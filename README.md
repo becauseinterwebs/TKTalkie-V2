@@ -1,3 +1,7 @@
+**WINDOWS USERS**  
+DO NOT copy and paste the source code from this page or your sketch will not compile.  You will receive an error "Stray \302" when you try to compile. This is due to the way Windows saves the copied code.  Instead use the **DOWNLOAD** button to download a zip file.
+___
+
 # TKTalkie v2.0
 
 The TKTalkie software is part of the TKTalkie DIY project.  This revision has some significant changes designed to making it easier to configure and use the system WITHOUT having to recompile and upload the software to the Teensy board and contains the following improvements:
